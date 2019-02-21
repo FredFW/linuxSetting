@@ -8,3 +8,5 @@ set breakindent
 set tabstop=4
 set shiftwidth=4
 set expandtab
+set cursorline
+set cursorcolumn
