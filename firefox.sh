@@ -1,0 +1,1 @@
+proot-distro login debian --user fred --isolated -- bash -c "vncserver-stop; vncserver-start; bash"
